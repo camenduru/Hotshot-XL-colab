@@ -14,6 +14,12 @@ https://github.com/hotshotco/Hotshot-XL#-inference
 ## Main Repo
 https://github.com/hotshotco/Hotshot-XL
 
+## Page
+https://hotshot.co/
+
+## Model
+https://huggingface.co/hotshotco/Hotshot-XL
+
 ## Output
 ![output (1)](https://github.com/camenduru/Hotshot-XL-colab/assets/54370274/954e9604-51a7-4097-9597-273be366a7ed)
 
