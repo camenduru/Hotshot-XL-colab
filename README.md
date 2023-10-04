@@ -21,6 +21,9 @@ https://hotshot.co/
 https://huggingface.co/hotshotco/Hotshot-XL
 
 ## Output
+
+https://github.com/camenduru/Hotshot-XL-colab/assets/54370274/7665aeba-d983-4f80-b145-f063f6bd8404
+
 ![output (1)](https://github.com/camenduru/Hotshot-XL-colab/assets/54370274/954e9604-51a7-4097-9597-273be366a7ed)
 
 ![output1](https://github.com/camenduru/Hotshot-XL-colab/assets/54370274/24847b8c-2d45-44cc-ac33-da4bbff2719f)
