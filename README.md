@@ -8,6 +8,9 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Hotshot-XL-colab/blob/main/Hotshot_XL_colab.ipynb) | Hotshot_XL_colab
 
+## Tutorial
+https://github.com/hotshotco/Hotshot-XL#-inference
+
 ## Main Repo
 https://github.com/hotshotco/Hotshot-XL
 
