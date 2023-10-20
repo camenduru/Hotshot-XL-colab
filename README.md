@@ -7,6 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Hotshot-XL-colab/blob/main/Hotshot_XL_colab.ipynb) | Hotshot_XL_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DragonFarts/Video-EZY/blob/main/512%2Blora_Hotshot_XL_colab.ipynb) | 512_lora_Hotshot_XL_colab.ipynb (Thansk to @DragonFarts ❤) <br /> https://github.com/DragonFarts/Video-EZY
 
 ## Tutorial
 https://github.com/hotshotco/Hotshot-XL#-inference
